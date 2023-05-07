@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border: 1px black solid;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: PaleGreen;
+}
+header a {
+    text-decoration: none;
+    color: Lime;
+    border: 2px black solid;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: Green;
+}
+h1 {
+    color: Teal;
+    text-align: center;
+}
+footer {
+    background-color: white;
+}
+footer p{
+    background-color: Lime;
+}
+nav a{
+    text-decoration: none;
+    background-color: LawnGreen;
+    border: 2px black solid;
+    border-radius: 10px;
+    padding: 5px;
+    color: DarkGreen;
+}
+nav {
+    background-color: MediumSeaGreen;
+    border: 0px black solid;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.prod  {
+    background-color: Green;
+    color: white;
+    border: black 0px solid;
+    border-radius: 10px;
+    padding: 5px;
+}
+p {
+    font-size: 20px;
+    margin: 10px;
+}
+h2 {
+    color: DarkGreen;
+}
+a {
+    text-decoration: none;
+    border: black 2px solid;
+    border-radius: 5px;
+    padding: 3px;
+    color: Lime;
+    background-color: SeaGreen;
+}
+.up {
+    text-decoration: none;
+    border: black 2px solid;
+    border-radius: 5px;
+    padding: 3px;
+    color: Lime;
+    background-color: DarkGreen;
+}
